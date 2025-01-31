@@ -60,4 +60,4 @@
             <li>Instructions for setting up and running the application locally.</li>
         </ul>
     </p>
-<h2>Developed by: Yash Anand </h2>
+<h2>Developed by: Yash Anand</h2>
